@@ -102,6 +102,11 @@ svg {
     float: right;
 }
 
+footer {
+    text-align: center;
+    margin: 15px auto;
+}
+
 @media only screen and (min-width: 768px){
     .card-wrapper {
         display: grid;

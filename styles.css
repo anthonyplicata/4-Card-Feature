@@ -119,7 +119,8 @@ footer {
     }
 
     .card {
-        width: 400px;
+        width: 100%;
+        max-width: 378px;
         margin: 0;
     }
 
